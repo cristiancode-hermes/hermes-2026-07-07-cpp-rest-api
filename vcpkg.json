@@ -1,0 +1,19 @@
+{
+  "name": "cpp-rest-api",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "cpp-httplib",
+      "version": ">=0.18.2"
+    },
+    {
+      "name": "nlohmann-json",
+      "version": ">=3.11.3"
+    },
+    {
+      "name": "spdlog",
+      "version": ">=1.15.1"
+    }
+  ],
+  "builtin-baseline": "1a795bb18ec69120d8b518c2b0a28210cdc0640c"
+}
